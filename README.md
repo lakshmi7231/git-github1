@@ -1,2 +1,2 @@
 # git-github1
-first initial central repository
+This is for tutorial purpose of first initial central repository
